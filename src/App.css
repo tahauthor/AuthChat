@@ -1,0 +1,25 @@
+
+ul{
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  flex-direction: row;
+}
+
+input{
+  position: relative;
+  height: auto;
+  width: 70%;
+  border-radius: 20px;
+}
+
+  .chatInput{
+    position: fixed;
+    bottom: 0;
+    padding: 10px;
+    margin-right: 40px;
+    display: flex;
+    height: auto;
+     width: 85%;
+  }
+
